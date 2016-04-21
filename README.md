@@ -17,8 +17,10 @@ Each of the katas are in their own directory and are self contained Clojure lein
 `cd` into the project and run `lein test` to show the failing tests, then complete the code
 to make the tests pass. Each project has the instructions in its own _README.md_ file.
 
+## Implementation
+  Pascal, 2016
   
-## License
+## Original
 
 Copyright © 2014 Carin Meier
 

@@ -81,9 +81,10 @@ egsgqwtahuiljgs
 - Make the tests pass!   / DONE
 
 ## Implementation
-Pascal, 2016
+  Pascal, 2016
 
-## Original Copyright © 2014 Carin Meier
+## Original
+Copyright © 2014 Carin Meier
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.

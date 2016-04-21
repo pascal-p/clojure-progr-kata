@@ -62,9 +62,10 @@ bread
 A sample dictionary has been included with a few words to get things going.  After you solve the kata, you might want to try a bigger dictionary to discover more exciting doublets.
 
 ## Implementation
-Pascal, 2016
+  Pascal, 2016
 
-## Original Copyright © 2014 Carin Meier
+## Original
+Copyright © 2014 Carin Meier
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
