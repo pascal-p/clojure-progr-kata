@@ -1,0 +1,17 @@
+/target
+/classes
+/checkouts
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+/.lein-*
+/.nrepl-port
+
+/card-game-war
+/fox-goose-bag-of-corn
+/images
+/magic-square
+/tiny-maze
+/wonderland-number
+
